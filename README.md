@@ -4,6 +4,12 @@ Este projeto foi desenvolvido como parte da **Semana Front-end** promovida pela 
 
 ![Banner do Projeto](assets/images/banner/logo.svg)
 
+## 🔗 Acesse o Projeto
+
+Você pode visualizar o projeto publicado no GitHub Pages pelo link abaixo:
+
+👉 **[Clique aqui para acessar o Mundo Invertido](https://cristiannemachado.github.io/Mundo-Invertido---Landing-Page/)
+
 ## 🚀 Tecnologias Utilizadas
 
 - HTML5
